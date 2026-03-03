@@ -63,8 +63,8 @@ Integrates three-body gravitational systems directly — no secular averaging, n
 
 | Language | |
 |---|---|
-| **Python** | data analysis, scripting, scientific computing |
 | **Julia** | Scientific simulation, high-performance numerical code, GLMakie visualisation |
+| **Python** | data analysis, scripting, scientific computing |
 | **Java** | Object-oriented design, algorithms and data structures |
 | **R** | Statistical analysis |
 | **SQL** | Relational databases and querying |
