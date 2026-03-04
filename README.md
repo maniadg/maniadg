@@ -14,7 +14,7 @@ Investigating a Green's function-based alternative to the canonical de Broglie�
 
 The key consequence is the absence of vortical structure near nodal regions — a primary driver of relaxation to quantum equilibrium in standard pilot-wave theory. The study investigates whether this suppression of vorticity leads to qualitatively different quantum nonequilibrium behaviour, quantified via L1, L2, and subquantum H-function diagnostics.
 
-Implemented in two spatial dimensions using the 2D isotropic harmonic oscillator as the benchmark system — providing exact analytic wavefunctions for clean validation against canonical dBB dynamics.
+Implemented in two spatial dimensions and using something like the 2D isotropic harmonic oscillator below as a benchmark system — it provides exact analytic wavefunctions for clean validation against canonical dBB dynamics.
 
 > *Code and writeup will be pushed here upon completion (May 2026)*
 
